@@ -1,0 +1,11 @@
+numpy
+torch
+scipy
+datasets
+git+https://github.com/huggingface/transformers.git@main
+pytorch-lightning
+soundfile
+librosa
+pyyaml
+torchmetrics
+tensorboard

@@ -1,0 +1,14 @@
+lightning_logs/
+codes/
+tb_logs/
+out_data/
+*.pyc
+*.vscode
+*.swp
+*.pk
+*.yaml
+*.json
+venv/
+audio/
+feats/
+*.egg-info/
